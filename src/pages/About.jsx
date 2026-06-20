@@ -1,0 +1,1 @@
+export default function About(){return <h2>Advanced React Todo App</h2>}
